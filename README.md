@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 ![](myfirstapp1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap
+GIF created with Giphy Capture
 
 
 ## App Brainstorming (Step 4)
