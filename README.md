@@ -2,7 +2,7 @@
 
 Submitted by: **Jimmy Ocaya**
 
-**MyFirstApp** is an app that... changes the background color to a random color whenever the button is clicked[TODO] 
+**MyFirstApp** is an app that... changes the background color to a random color whenever the button is clicked
 
 Time spent: **1.5** hours spent in total
 
