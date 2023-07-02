@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](walkthruvid.gif)
+![](myfirstapp2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
